@@ -9,11 +9,11 @@ h1
 }
 h2
 {
-    color:;
+    color:black;
 }
-body
+main
 {
-    background-color: darkred;
+    background-color: lightblue;
     font-size: large;
     color:greenyellow;    
 }
@@ -29,4 +29,8 @@ div
 {
     display: block;
     float: right
+}
+body
+{
+    background-color: darkblue;
 }
