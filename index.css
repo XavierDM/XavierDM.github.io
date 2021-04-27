@@ -35,5 +35,6 @@ body
 {
     background-image: radial-gradient(ellipse farthest-corner at 90% 90%, darkblue 16%, blue 50%, aqua 100%);
     background-repeat: no-repeat;
+    display: cover;
     color: white;
 }
