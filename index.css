@@ -4,16 +4,23 @@ title
 }
 h1
 {
-    color: magenta;
-    text-shadow: 10px 10px 10px greenyellow;
+    color: orange;
+    text-shadow: 10px 10px 10px green;
 }
-h2{
-    color:orangered;
-    background-color: orchid;
+h2
+{
+    color:;
 }
 body
 {
-    background-color:#ff8000;    ;
+    background-color: darkred;
     font-size: large;
     color:greenyellow;    
+}
+img
+{
+    border-radius: 50%;
+    vertical-align: right;
+    margin-right: auto;
+    display: inline;
 }
