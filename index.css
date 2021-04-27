@@ -1,6 +1,6 @@
 title
 {
-
+    font-size: xx-large;
 }
 h1
 {
@@ -13,8 +13,8 @@ h2
 }
 main
 {
-    background-color: lightblue;
-    font-size: large;
+    background-color: blue;
+    font-size: x-large;
     color:greenyellow;    
 }
 img
