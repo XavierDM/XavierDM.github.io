@@ -4,10 +4,16 @@ title
 }
 h1
 {
-
+    color: magenta;
+    text-shadow: 10px 10px 10px greenyellow;
+}
+h2{
+    color:orangered;
+    background-color: orchid;
 }
 body
 {
-    background-color: orange;
-    font-size: large;    
+    background-color:#ff8000;    ;
+    font-size: large;
+    color:greenyellow;    
 }
