@@ -28,9 +28,12 @@ img
 div
 {
     display: block;
-    float: right
+    float: right;
+    background-color: white;
+    color: black;
 }
 body
 {
     background-color: darkblue;
+    color: white;
 }
