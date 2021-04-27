@@ -15,6 +15,7 @@ main
 {
     font-size: x-large;
     color:greenyellow;
+    width: 500px;
 }
 img
 {
@@ -33,8 +34,11 @@ div
 }
 body
 {
-    background-image: radial-gradient(ellipse farthest-corner at 90% 90%, darkblue 16%, blue 50%, aqua 100%);
+    background-image: radial-gradient(ellipse, darkblue 16%, blue 50%, aqua 100%);
     background-repeat: no-repeat;
-    display: cover;
+    height: 1000px;
+    background-size: 100%;
+    background-position: center;
     color: white;
+    padding: 33.3%;
 }
