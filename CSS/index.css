@@ -19,7 +19,7 @@ main
 }
 img
 {
-    border-radius: 50%;
+    /* border-radius: 50%; */
     vertical-align: right;
     margin-right: auto;
     display: inline;
@@ -27,9 +27,9 @@ img
 }
 div
 {
-    display: block;
+/*     display: block;
     float: right;
-    background-color: white;
+    background-color: white; */
     color: black;
 }
 body

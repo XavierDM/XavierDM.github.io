@@ -1,0 +1,37 @@
+body {
+  background-image: radial-gradient(ellipse, darkblue 16%, blue 50%, aqua 100%);
+  background-repeat: no-repeat;
+}
+
+@media screen and (min-width: 769px) {
+  body {
+    background-color: aqua !important;
+  }
+}
+div.devX {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+img {
+  border-radius: 50%;
+}
+
+i {
+  color: white;
+  align-items: flex-end;
+}
+
+div.socialIcons {
+  display: flex;
+  justify-content: end;
+  align-items: flex-end;
+}
+
+button.socialIcons {
+  color: magenta;
+}
+
+/*# sourceMappingURL=style.css.map */
